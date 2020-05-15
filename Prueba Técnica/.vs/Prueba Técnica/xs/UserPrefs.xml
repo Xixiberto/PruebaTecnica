@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{09B42A54-45DF-DAF9-8223-291AD48A4D00}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/JsonChallenge.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/JsonChallenge.cs" Line="21" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prueba Técnica" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Scripts" expanded="True">
+                <Node name="JsonChallenge.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Packages" expanded="True">
+              <Node name="LitJson.0.16.0" expanded="True">
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9c8da4ec-1d90-4af1-89ad-6a95c8655994" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
